@@ -1,0 +1,17 @@
+name: kzo_ultra_studio
+description: The Ultimate AI Video Empire
+version: 1.0.0+1
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.0
+  camera: ^0.10.5+2
+  ffmpeg_kit_flutter: ^5.1.0
+  image_picker: ^1.0.4
+  path_provider: ^2.1.1
+  url_launcher: ^6.1.14
+flutter:
+  uses-material-design: true
+  
